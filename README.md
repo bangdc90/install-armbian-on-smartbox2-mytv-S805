@@ -3,7 +3,7 @@
 ## Yêu cầu:
 - SD card tối thiểu 8GB (khuyến nghị 16GB+)
 - Armbian image cho S805 (kernel 5.x hoặc 6.x)
-- Package boot files này (đã có)
+- Package boot files này : https://forum.armbian.com/applications/core/interface/file/attachment.php?id=11348&key=141a9d01c37c72fe3592a6d4bd917f4d
 
 ## Bước 1: Chuẩn bị SD card
 
